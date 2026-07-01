@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ranjith%20Vel%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automation%20%7C%20Robotics%20%7C%20AI-Powered%20Solutions&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Engineering+Student+%40+Sri+Sai+Ram+IT;RHCSA+Certified+%7C+Red+Hat+Linux;Python+%7C+C%2FC%2B%2B+%7C+Robotics;Building+AI-Powered+Prototypes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Engineering+Student+%40;RHCSA+Certified+%7C+Red+Hat+Linux;Python+%7C+Java+%7C+Robotics;Building+AI-Powered+Prototypes" alt="Typing SVG" />
 
 </div>
 
@@ -47,9 +47,7 @@ print(me.motto())
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frameworks & Hardware**
 

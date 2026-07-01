@@ -21,8 +21,8 @@ class RanjithVelM:
         self.college = "Sri Sai Ram Institute of Technology, Chennai"
 
         self.stack = [
-            "Python", "C/C++", "Java",
-            "Bash", "Arduino", "Red Hat Linux"
+            "Python", "Java",
+             "Arduino", "Red Hat Linux"
         ]
 
         self.currently_learning = [
